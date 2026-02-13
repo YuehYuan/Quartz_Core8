@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eC6sFc1IqUg=",
+  "dgSpecHash": "kb/AAbipi8c=",
   "success": true,
-  "projectFilePath": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\WebSch.csproj",
+  "projectFilePath": "F:\\Schedule\\Quartz_Core8\\WebSch\\WebSch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2307119\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\2307119\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

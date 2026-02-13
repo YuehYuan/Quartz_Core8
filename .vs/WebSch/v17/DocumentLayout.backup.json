@@ -1,25 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\",
+  "WorkspaceRootPath": "F:\\Schedule\\Quartz_Core8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\webschedule\\websched\\quartz_core8\\websch\\services\\quartzinitializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\schedule\\quartz_core8\\websch\\services\\quartzinitializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|solutionrelative:websch\\services\\quartzinitializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\webschedule\\websched\\quartz_core8\\websch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\schedule\\quartz_core8\\websch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|solutionrelative:websch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\webschedule\\websched\\quartz_core8\\websch\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\schedule\\quartz_core8\\websch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|solutionrelative:websch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\schedule\\quartz_core8\\websch\\services\\sqlspjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|solutionrelative:websch\\services\\sqlspjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\schedule\\quartz_core8\\websch\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|solutionrelative:websch\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\webschedule\\websched\\quartz_core8\\websch\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\schedule\\quartz_core8\\websch\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|solutionrelative:websch\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\webschedule\\websched\\quartz_core8\\websch\\websch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\schedule\\quartz_core8\\websch\\services\\sqlstoredprocedurejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|solutionrelative:websch\\services\\sqlstoredprocedurejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|f:\\schedule\\quartz_core8\\websch\\websch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DBCE9BA6-FF90-48A3-8ECD-5C8D2651C311}|WebSch\\WebSch.csproj|solutionrelative:websch\\websch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,50 +58,88 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Schedule\\Quartz_Core8\\WebSch\\appsettings.json",
+              "RelativeDocumentMoniker": "WebSch\\appsettings.json",
+              "ToolTip": "F:\\Schedule\\Quartz_Core8\\WebSch\\appsettings.json",
+              "RelativeToolTip": "WebSch\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T07:43:02.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SqlSpJob.cs",
+              "DocumentMoniker": "F:\\Schedule\\Quartz_Core8\\WebSch\\Services\\SqlSpJob.cs",
+              "RelativeDocumentMoniker": "WebSch\\Services\\SqlSpJob.cs",
+              "ToolTip": "F:\\Schedule\\Quartz_Core8\\WebSch\\Services\\SqlSpJob.cs",
+              "RelativeToolTip": "WebSch\\Services\\SqlSpJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T07:39:43.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlStoredProcedureJob.cs",
+              "DocumentMoniker": "F:\\Schedule\\Quartz_Core8\\WebSch\\Services\\SqlStoredProcedureJob.cs",
+              "RelativeDocumentMoniker": "WebSch\\Services\\SqlStoredProcedureJob.cs",
+              "ToolTip": "F:\\Schedule\\Quartz_Core8\\WebSch\\Services\\SqlStoredProcedureJob.cs",
+              "RelativeToolTip": "WebSch\\Services\\SqlStoredProcedureJob.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T07:33:53.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MyDbContext.cs",
-              "DocumentMoniker": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\Context\\MyDbContext.cs",
+              "DocumentMoniker": "F:\\Schedule\\Quartz_Core8\\WebSch\\Context\\MyDbContext.cs",
               "RelativeDocumentMoniker": "WebSch\\Context\\MyDbContext.cs",
-              "ToolTip": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\Context\\MyDbContext.cs",
+              "ToolTip": "F:\\Schedule\\Quartz_Core8\\WebSch\\Context\\MyDbContext.cs",
               "RelativeToolTip": "WebSch\\Context\\MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T06:10:21.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WebSch",
-              "DocumentMoniker": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\WebSch.csproj",
+              "DocumentIndex": 7,
+              "Title": "WebSch.csproj",
+              "DocumentMoniker": "F:\\Schedule\\Quartz_Core8\\WebSch\\WebSch.csproj",
               "RelativeDocumentMoniker": "WebSch\\WebSch.csproj",
-              "ToolTip": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\WebSch.csproj",
+              "ToolTip": "F:\\Schedule\\Quartz_Core8\\WebSch\\WebSch.csproj",
               "RelativeToolTip": "WebSch\\WebSch.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-13T06:08:47.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T06:08:47.886Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QuartzInitializerService.cs",
-              "DocumentMoniker": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\Services\\QuartzInitializerService.cs",
+              "DocumentMoniker": "F:\\Schedule\\Quartz_Core8\\WebSch\\Services\\QuartzInitializerService.cs",
               "RelativeDocumentMoniker": "WebSch\\Services\\QuartzInitializerService.cs",
-              "ToolTip": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\Services\\QuartzInitializerService.cs",
+              "ToolTip": "F:\\Schedule\\Quartz_Core8\\WebSch\\Services\\QuartzInitializerService.cs",
               "RelativeToolTip": "WebSch\\Services\\QuartzInitializerService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAnwCwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T05:35:32.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "JobService.cs",
-              "DocumentMoniker": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\Services\\JobService.cs",
+              "DocumentMoniker": "F:\\Schedule\\Quartz_Core8\\WebSch\\Services\\JobService.cs",
               "RelativeDocumentMoniker": "WebSch\\Services\\JobService.cs",
-              "ToolTip": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\Services\\JobService.cs",
+              "ToolTip": "F:\\Schedule\\Quartz_Core8\\WebSch\\Services\\JobService.cs",
               "RelativeToolTip": "WebSch\\Services\\JobService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,11 +150,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\Program.cs",
+              "DocumentMoniker": "F:\\Schedule\\Quartz_Core8\\WebSch\\Program.cs",
               "RelativeDocumentMoniker": "WebSch\\Program.cs",
-              "ToolTip": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\Program.cs",
+              "ToolTip": "F:\\Schedule\\Quartz_Core8\\WebSch\\Program.cs",
               "RelativeToolTip": "WebSch\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T02:49:55.121Z",
               "EditorCaption": ""

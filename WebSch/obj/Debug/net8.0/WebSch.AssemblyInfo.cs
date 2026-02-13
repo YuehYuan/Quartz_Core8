@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebSch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f8cc02f07f066eb0205cf350958cc51c2fa14b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5df09a8554d55fa7398ed1cfec057656ad307421")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebSch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebSch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

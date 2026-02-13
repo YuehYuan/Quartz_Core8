@@ -4275,11 +4275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\WebSch.csproj",
+      "projectUniqueName": "F:\\Schedule\\Quartz_Core8\\WebSch\\WebSch.csproj",
       "projectName": "WebSch",
-      "projectPath": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\WebSch.csproj",
+      "projectPath": "F:\\Schedule\\Quartz_Core8\\WebSch\\WebSch.csproj",
       "packagesPath": "C:\\Users\\2307119\\.nuget\\packages\\",
-      "outputPath": "F:\\WebSchedule\\WebSched\\Quartz_Core8\\WebSch\\obj\\",
+      "outputPath": "F:\\Schedule\\Quartz_Core8\\WebSch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
